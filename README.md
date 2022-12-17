@@ -5,5 +5,14 @@ Try to hold back your tears.
 ## Player Character Movement
 ![Animator](anim.jpg)
 
+![Settings](Settings.jpg)
+
+![Improvements](Improvements.jpg)
+
+## Proposed Scene Scheme
+
 ## Level 1 
+Player is able to interact with enemy entity. Implements health system. 
+
+![Level 1](level1.jpg)
 
