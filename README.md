@@ -1,6 +1,5 @@
 # BirdBrain
-A 2D pixel game created in Unity. Follow the main character "generic nameless bird" as they traverse their way through getting a college degree.
-Try to hold back your tears. 
+A 2D pixel game created in Unity.
 
 ## Player Character Movement (Starter Code for simple movement shown above )
 ![Animator](anim.jpg)
