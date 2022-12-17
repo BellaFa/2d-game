@@ -10,6 +10,7 @@ Try to hold back your tears.
 ![Improvements](Improvements.jpg)
 
 ## Proposed Scene Scheme
+![outline](outline.jpg)
 
 ## Level 1 
 Player is able to interact with enemy entity. Implements health system. 
