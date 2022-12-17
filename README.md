@@ -1,7 +1,8 @@
 # BirdBrain
 A 2D pixel game created in Unity.
 
-## Player Character Movement ### (Starter Code for simple movement shown above )
+## Player Character Movement 
+### (Starter Code for simple movement shown above )
 ![Animator](anim.jpg)
 
 ![Settings](Settings.jpg)
